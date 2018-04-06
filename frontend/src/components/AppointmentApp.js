@@ -364,7 +364,7 @@ class AppointmentApp extends Component {
             </Step>
             <Step>
               <StepLabel>
-                Share your contact information with us and we'll send you a reminder
+                Share your contact information with us and we will send you a reminder
               </StepLabel>
               <StepContent>
                 <p>
